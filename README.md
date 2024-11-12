@@ -1,8 +1,6 @@
 # Chizi Akoma Python_Portfolio
 This is the portfolio of python code that I learned during BISC 516C
 
-In this analysis, we looked at inflammation data for multiple patients.
-
 ## Jupyter Notebooks (1,2)
 
 ```python
